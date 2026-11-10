@@ -1,7 +1,7 @@
 <img src="images/image_library_rescue_banner.jpg" alt="A1111 to ComfyUI Metadata Converter" width="100%">
 
 
-# A1111 → ComfyUI PNG Metadata Converter
+# A1111-to-ComfyUI PNG Metadata Converter
 **A standalone Python script that converts A1111 metadata in existing PNG files into ComfyUI-compatible metadata and workflows.**
 
 ## Table of Contents

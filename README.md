@@ -1,4 +1,4 @@
-<img src="images/A1111-to-ComfyUI-PNG-Metadata-Converter-banner.jpg" alt="A1111 to ComfyUI Metadata Converter" width="100%">
+<img src="images/A1111-to-ComfyUI-PNG-Metadata-Converter-1672x308.png" alt="A1111 to ComfyUI Metadata Converter" width="100%">
 
 
 # A1111-to-ComfyUI PNG Metadata Converter
